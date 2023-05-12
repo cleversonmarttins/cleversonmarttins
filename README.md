@@ -1,8 +1,8 @@
 ## Bem-vindo(a) ao perfil do Cleverson
 <div>
    <a href="https://github.com/cleversonmarttins">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cleversonmarttins&show_icons=true&theme=dark&include_all_commits=true&count_private=true%22/%3E">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleversonmarttins&layout=compact&langs_count=6&theme=tokyonight%22/%3E">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cleversonmarttins&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleversonmarttins&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>
 <div style="display: inline_block"><br>
